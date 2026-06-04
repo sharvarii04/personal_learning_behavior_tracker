@@ -5,3 +5,7 @@ scikit-learn
 jupyter
 ipykernel
 joblib
+langchain
+langchain-openai
+openai
+python-dotenv
