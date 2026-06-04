@@ -1,0 +1,29 @@
+feature,importance,original_feature
+completion_percent,0.49005012176698803,completion_percent
+distraction_level_1_10,0.13944594766746324,distraction_level_1_10
+hour_of_day,0.08391367904116975,hour_of_day
+sleep_hours,0.06998450216582637,sleep_hours
+energy_before_1_10,0.06344022525582665,energy_before_1_10
+duration_min,0.025532121192231333,duration_min
+weekday_number,0.021367320172107785,weekday_number
+difficulty_1_5,0.01587656947229378,difficulty_1_5
+break_before_days,0.012867314275453297,break_before_days
+time_of_day_Morning,0.008872524341722993,time_of_day
+device_used_Notebook,0.0055779589727975275,device_used
+device_used_Laptop + Notebook,0.005124521459251903,device_used
+time_of_day_Afternoon,0.0050085778410308675,time_of_day
+location_Cafe,0.0049331664131155055,location
+location_University Library,0.004669902891926898,location
+device_used_Tablet,0.004560959720317281,device_used
+topic_type_Data Analysis,0.004551288605332588,topic_type
+location_Study Room,0.004525783794735313,location
+location_Home Desk,0.00411857923074517,location
+topic_type_Programming,0.004095003705981257,topic_type
+topic_type_ML,0.0036966913805546162,topic_type
+topic_type_Math,0.0034889893734458073,topic_type
+device_used_Laptop,0.0032048423712478036,device_used
+time_of_day_Night,0.0031822330911708187,time_of_day
+topic_type_Data Engineering,0.002231351026001886,topic_type
+topic_type_Language,0.0022207472880242784,topic_type
+topic_type_GenAI,0.0017879247998612393,topic_type
+time_of_day_Evening,0.0016711526833758808,time_of_day
