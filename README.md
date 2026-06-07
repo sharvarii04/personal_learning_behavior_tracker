@@ -17,8 +17,6 @@ The main goal is to explore which session-level behavioral features influence se
 
 ## Dataset
 
-The dataset is already included in this repository; there is no separate dataset-generation script required in this version.
-
 Each row represents one study session and includes session metadata, behavioral signals, and a self-rated focus score.
 
 Important columns include:
