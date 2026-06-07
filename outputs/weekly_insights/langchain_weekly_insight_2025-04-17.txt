@@ -1,0 +1,26 @@
+LangChain/OpenAI Weekly Insight Workflow
+=============================================
+
+
+Weekly Learning Summary
+
+Week ending: 2025-04-17
+
+Number of study sessions: 6
+Average focus score: 5.33/10
+Average session duration: 89.2 minutes
+Average sleep hours: 7.4
+Average energy before studying: 6.17/10
+Average distraction level: 4.67/10
+Average completion percentage: 84.5%
+Total study time: 535 minutes
+Average break before sessions: 0.17 days
+
+**Weekly Summary:**  
+You studied six times this week, spending about 1 hour 30 minutes per session (total ≈ 9 hours). Your focus was modest (5.3/10) and you felt reasonably energetic (6.2/10) before each session. Distractions were a bit high (4.7/10), but you still completed most of your planned work (≈ 85%). Sleep was adequate at 7.4 hours, and you usually started studying after a short break of less than a day.
+
+**Main Pattern:**  
+You’re able to keep up a steady study cadence, but the combination of low focus and relatively high distraction scores suggests that the study environment isn’t optimized. The short “break before sessions” (≈ 4 hours) means you’re jumping straight from other activities into study, which likely fuels the distraction level.
+
+**Recommended Adjustment:**  
+**Introduce a 10‑minute “pre‑study reset” routine** (e.g., a quick walk, stretching, or a brief mindfulness breathing exercise) right after your break and before you sit down to work. This short transition helps lower immediate distractions and raises focus scores without needing to change your overall schedule. Track the routine’s impact by noting the focus score for the next week’s sessions.
