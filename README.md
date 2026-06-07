@@ -33,6 +33,8 @@ Important columns include:
 - completion_percent
 - focus_score_1_10
 
+The dataset is included in this repository under `data/raw/` and `data/processed/`.
+
 ## Model
 
 A Random Forest Regressor was trained to predict `focus_score_1_10`.
